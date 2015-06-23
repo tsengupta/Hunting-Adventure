@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=pointCounter
+comment0.target=Crosshair(Counter)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Mouse\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+numComments=3

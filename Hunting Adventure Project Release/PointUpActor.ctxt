@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ PointUp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=rotation
+comment1.target=void\ setRotation(int)
+comment1.text=\r\n\ setRotation\ -\ sets\ the\ rotation\ to\ the\ inputed\ parameter\r\n
+comment2.params=
+comment2.target=int\ getRotation()
+comment2.text=\r\n\ getRotation\ -\ gets\ the\ rotation\ of\ Animal\ actors\r\n
+comment3.params=distance
+comment3.target=void\ move(int)
+comment3.text=\r\n\ move\ -\ moves\ the\ Animal\ actor\ the\ inputed\ distance\r\n
+comment4.params=x\ y
+comment4.target=void\ turnTowards(int,\ int)
+comment4.text=\r\n\ turnTowards\ -\ turns\ the\ actor\ towards\ the\ inputed\ coordinates\r\n
+comment5.params=amount
+comment5.target=void\ turn(int)
+comment5.text=\r\n\ turn\ -\ turns\ the\ actor\ a\ specified\ distance\ from\ it's\ original\ position\r\n
+numComments=6

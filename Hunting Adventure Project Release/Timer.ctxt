@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Timer()
+comment0.text=\r\n\ Timer\ -\ starts\ the\ timer\ and\ shows\ it\ starting\ at\ 90\ seconds.\r\n
+comment1.params=
+comment1.target=void\ reset()
+comment1.text=\r\n\ reset\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Timer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ timeSpent()
+comment3.text=\r\n\ timeSpent\ -\ shows\ the\ amount\ of\ time\ that\ has\ spent\ by\ using\ the\ NANOSECONDS_PER_SECOND\ and\ subtracting\ 90\ so\ it\ countsdown\r\n
+comment4.params=timeSpent
+comment4.target=void\ update(int)
+comment4.text=\r\n\ update\ -\ changes\ the\ number\ each\ time\ it\ goes\ down\r\n
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Field()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ field.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Counter\ getCounter()
+comment3.params=
+comment3.target=void\ Started()
+comment3.text=\r\n\ started\ -\ removes\ the\ Start\ screen\ once\ the\ player\ hits\ "Run"\r\n
+comment4.params=
+comment4.target=boolean\ canAddBird()
+comment4.text=\r\n\ canAddBird\ -\ limits\ the\ amount\ of\ Birds\ on\ screen\r\n
+comment5.params=
+comment5.target=boolean\ canAddRabbit()
+comment5.text=\r\n\ canAddRabbit\ -\ limits\ the\ amount\ of\ Rabbits\ on\ screen\r\n
+comment6.params=
+comment6.target=boolean\ canAddBear()
+comment6.text=\r\n\ canAddBear\ -\ limits\ the\ amount\ of\ Bears\ on\ screen\r\n
+numComments=7

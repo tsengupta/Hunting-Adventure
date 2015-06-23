@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Bird\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ moveAround()
+comment1.text=\r\n\ moveAround\ -\ allows\ the\ Bird\ to\ move\ across\ the\ world\ in\ a\ random\ pattern\ \r\n\ and\ makes\ sure\ the\ actor\ faces\ the\ right\ direction\ when\ moving.\r\n
+comment2.params=
+comment2.target=void\ checkTimer()
+comment2.text=\r\n\ checkTimer\ -\ when\ a\ Bird\ appears\ in\ the\ world,\ the\ timer\ starts\ counting\ down.\ \r\n\ If\ the\ Bird\ is\ not\ clicked\ on\ (shot)\ in\ a\ certain\ amount\ of\ time,\ actor\ will\ \r\n\ disappear\ from\ the\ world.\r\n
+numComments=3
