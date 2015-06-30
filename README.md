@@ -9,3 +9,6 @@ Hunting Adventure is an entertainment game made in Greenfoot that tests the play
 - Antonio Rodgers
 - Miranda Smith
 
+![hunting adventure promo](https://cloud.githubusercontent.com/assets/12662684/8442211/371e1a1a-1f43-11e5-9295-c81c77c68c54.PNG)
+![win2](https://cloud.githubusercontent.com/assets/12662684/8442332/fa0159a2-1f43-11e5-9e1b-5cb71ffe4c7e.jpg)
+![lose2](https://cloud.githubusercontent.com/assets/12662684/8442346/128ac58a-1f44-11e5-9c3d-4fe6f4f704b7.jpg)
